@@ -1,7 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Shivansh
-
+# Author: Yashvardhan 
 PACKAGE="git"
 
 echo "Checking package: $PACKAGE"
