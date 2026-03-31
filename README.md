@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-* **Name:** Shivansh Tewari
-* **Roll Number:** 24BAI10112
+* **Name:** Yashvardhan Jain
+* **Roll Number:** 24BSA10128
 
 ---
 
